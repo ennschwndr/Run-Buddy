@@ -9,6 +9,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* HEADER!!!!!!!!!! */
+
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -42,6 +44,8 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/* FOOTER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 footer {
     background: #fce138;
     width: 100%;
@@ -64,6 +68,8 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+/* HERO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
 .hero {
     background-image: url(hero-bg.jpg);
@@ -111,6 +117,8 @@ padding: 10px 20px;
 font-size: 16px;
 }
 
+/* INTRO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 .intro {
     text-align: center;
 }
@@ -125,7 +133,7 @@ font-size: 16px;
 }
 
 .intro h2 {
-    display: inline-block;
+  
 }
 
 .intro p {
@@ -137,4 +145,54 @@ font-size: 16px;
 
 .intro p{
     margin: 0 auto; 
+}
+
+/* STEPS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+
+.steps h2 {
+ 
+}
+
+.steps div {
+    margin-bottom: 80px;
+}
+
+.steps img {
+    width: 15%;
+}
+
+.step h3 {
+    color: #024e76;
+    font-size: 46px;
+    margin-top: 10px;
+}
+
+.steps p {
+    color: #39a6b2;
+    font-size: 23px;
+}
+
+.steps span {
+    font-size: 38px;
+}
+
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
 }
