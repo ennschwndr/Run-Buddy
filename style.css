@@ -9,8 +9,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* HEADER!!!!!!!!!! */
-
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -44,8 +42,6 @@ header nav ul li a {
     font-size: 22px;
 }
 
-/* FOOTER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
 footer {
     background: #fce138;
     width: 100%;
@@ -69,8 +65,6 @@ footer a {
     color: #024e76;
 }
 
-/* HERO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-
 .hero {
     background-image: url(hero-bg.jpg);
     height: 600px;
@@ -86,7 +80,7 @@ footer a {
     width: 500px;
     color: #024e76;
     position: absolute;
-    bottom: 35px;
+    bottom: 80px;
     right: 140px;
 }
 
@@ -117,8 +111,6 @@ padding: 10px 20px;
 font-size: 16px;
 }
 
-/* INTRO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
 .intro {
     text-align: center;
 }
@@ -142,8 +134,6 @@ font-size: 16px;
 .intro p{
     margin: 0 auto; 
 }
-
-/* STEPS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
 .steps {
     text-align: center;
@@ -234,4 +224,35 @@ font-size: 16px;
 
 .text-right {
     text-align: right;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info {
+    background: #024e76;
+}
+
+.contact-info h2 {
+    font-size: 55px;
+    color: #fce138;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    border-bottom-color: #39a6b2;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
 }
