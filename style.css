@@ -73,7 +73,6 @@ footer a {
     position: relative;
 }
 
-/*
 .hero-secondary {
     background-image: url(hero.bg.jpg);
     height: 600px;
@@ -81,7 +80,7 @@ footer a {
     background-position: center;
     position: relative;
 }
-*/
+
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
