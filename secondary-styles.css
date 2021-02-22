@@ -1,6 +1,6 @@
 .hero {
     background-image: url(hero-bg.jpg);
-    height: 600px;
+    height: 200px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -12,6 +12,40 @@
     font-style: italic;
     font-size: medium;
     padding: 0 80px 15px 80px;
+    padding-top: 80px;
     border-bottom: 4px solid;
     border-color: #fce138;
+}
+
+.secondary-content {
+    width: 80%;
+    margin: right;
+    color: #024e76;
+}
+
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px;
+}
+
+.secondary-content ul {
+    margin-top: 15px;
+}
+
+.secondary-content li {
+    color: #39a6b2;
+    margin: 10px;
+}
+
+.secondary-content address {
+    margin: 10px;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
 }
