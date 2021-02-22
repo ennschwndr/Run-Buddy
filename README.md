@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://ennschwndr.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Eli Neuenschwander
+Made with <3 by Eli Neuenschwander
 
 ### ©️2021 Run Buddy, Inc 
