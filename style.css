@@ -130,7 +130,7 @@ footer a {
     padding: 15px;
     color: #024e76;
     width: 40%;
-    margin: 35%;
+    margin: 5%;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 15px;
 }
@@ -239,7 +239,7 @@ footer a {
 }
 
 .step-info {
-    flex: 12 70%;
+    flex: 12 50%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
